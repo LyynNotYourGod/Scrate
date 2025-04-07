@@ -98,7 +98,7 @@ export default function PaymentGateway() {
               <div className="space-y-2">
                 <p className="text-sm text-gray-600 dark:text-gray-400 font-medium">Virtual Account Number</p>
                 <p className="text-xl font-mono tracking-wider font-semibold">0882010414726</p>
-                <p className="text-sm text-gray-500 dark:text-gray-500 font-medium">A/N: HERU HIDAYAT/Y*</p>
+                <p className="text-sm text-gray-500 dark:text-gray-500 font-medium">A/N: HERU HIDAYAT</p>
               </div>
 
               <Button
@@ -150,7 +150,7 @@ export default function PaymentGateway() {
               <div className="space-y-2">
                 <p className="text-sm text-gray-600 dark:text-gray-400 font-medium">Virtual Account Number</p>
                 <p className="text-xl font-mono tracking-wider font-semibold">0882010414726</p>
-                <p className="text-sm text-gray-500 dark:text-gray-500 font-medium">A/N: HERU HIDAYAT Official</p>
+                <p className="text-sm text-gray-500 dark:text-gray-500 font-medium">A/N: Lyyn Store</p>
               </div>
 
               <Button
@@ -201,7 +201,7 @@ export default function PaymentGateway() {
           >
             <div className="space-y-4">
               <div className="text-center mb-2">
-                <p className="text-sm text-gray-500 dark:text-gray-500 font-medium">A/N: TOYSHOP store</p>
+                <p className="text-sm text-gray-500 dark:text-gray-500 font-medium">A/N: Lyyn Store</p>
               </div>
               <div className="flex justify-center py-2">
                 <div className="bg-white p-4 rounded-lg w-48 h-48 flex items-center justify-center shadow-md overflow-hidden">
